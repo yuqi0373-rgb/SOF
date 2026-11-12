@@ -1,0 +1,10 @@
+Rolling-UNet backbone code is derived from:
+https://github.com/Jiaoyang45/Rolling-Unet
+
+U-KAN backbone and KAN layers are derived from:
+https://github.com/CUHK-AIM-Group/U-KAN
+Revision b20bf63490f01ba45cc2c18834bc0c4975c12715
+
+The U-KAN backbone dimensions used here are 128, 160, and 256.
+The backbone files were reorganized and documentation strings were removed.
+AD-GBC fusion parameters retain their original tensor names for weight loading.

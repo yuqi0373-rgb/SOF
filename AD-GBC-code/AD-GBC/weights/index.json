@@ -1,0 +1,220 @@
+{
+  "weights": [
+    {
+      "path": "rolling/busi/reference_1.ckpt",
+      "backbone": "rolling",
+      "dataset": "busi",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "fc929fd53a1070ee24f45820ff6f7cb20b501662438de0d15016a7b3237d6b1f"
+    },
+    {
+      "path": "rolling/glas/reference_1.ckpt",
+      "backbone": "rolling",
+      "dataset": "glas",
+      "input_size": 512,
+      "num_classes": 1,
+      "sha256": "7f7208196289cb63d5fffddd10702bbd2a76abe755171de98cd1288765dc6319"
+    },
+    {
+      "path": "rolling/glas/reference_2.ckpt",
+      "backbone": "rolling",
+      "dataset": "glas",
+      "input_size": 512,
+      "num_classes": 1,
+      "sha256": "90763e5d5b56cc6d5dfddae6cc6e38ec3343909791d2167728544824ce7063bf"
+    },
+    {
+      "path": "rolling/isic17/split_2981.ckpt",
+      "backbone": "rolling",
+      "dataset": "isic17",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "76576278c81ee5f0c26de53cfec323799596f75f66a2259963668ceb246be361"
+    },
+    {
+      "path": "rolling/isic17/split_6142.ckpt",
+      "backbone": "rolling",
+      "dataset": "isic17",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "0bcbfea47d649ce02f1de26ca33909f0d7042db11bd37fa4af749cd31dce494a"
+    },
+    {
+      "path": "rolling/busi/split_2981.ckpt",
+      "backbone": "rolling",
+      "dataset": "busi",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "ea2f5840a504ed879fc71cc8e3f29551bd06eff21c830f03f6e8d0bcf95df219"
+    },
+    {
+      "path": "rolling/busi/split_6142.ckpt",
+      "backbone": "rolling",
+      "dataset": "busi",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "44192e1fdc655e33baf0c44b16ea9b015c121c99d8bcc140770db29391bc0f98"
+    },
+    {
+      "path": "rolling/cvc/split_2981.ckpt",
+      "backbone": "rolling",
+      "dataset": "cvc",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "90d123eb59dbe02da439a0d55beb6a8e1de349c910b23fc6adc3e22fec2b517e"
+    },
+    {
+      "path": "rolling/cvc/split_6142.ckpt",
+      "backbone": "rolling",
+      "dataset": "cvc",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "577812a24b5490eeae84290d04832a532b390f7d145687c92c77a858387518fc"
+    },
+    {
+      "path": "rolling/glas/split_2981.ckpt",
+      "backbone": "rolling",
+      "dataset": "glas",
+      "input_size": 512,
+      "num_classes": 1,
+      "sha256": "fa3cce18c00cc2a3d9d328c53d26cf1e6db720ac8892adcef8b273bba21c04a8"
+    },
+    {
+      "path": "rolling/glas/split_6142.ckpt",
+      "backbone": "rolling",
+      "dataset": "glas",
+      "input_size": 512,
+      "num_classes": 1,
+      "sha256": "8376399a01ce1f87f23419116cec147149f10f92c73f6d5034a778436b3c0186"
+    },
+    {
+      "path": "rolling/isic17/split_41.ckpt",
+      "backbone": "rolling",
+      "dataset": "isic17",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "4fff0927c81942a0a4ebeac49a282b6cb6d04751653e3dbb58bcae0f1f9ce81b"
+    },
+    {
+      "path": "rolling/busi/split_41.ckpt",
+      "backbone": "rolling",
+      "dataset": "busi",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "e425c9f12de1a6d33c8d69c98e1d99774552a450f0e5b25da04dbad5e39a938c"
+    },
+    {
+      "path": "rolling/cvc/split_41.ckpt",
+      "backbone": "rolling",
+      "dataset": "cvc",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "7fe28068094bdeb97250759de0faf2f191cbea63ba5afbe9ca63280f45743845"
+    },
+    {
+      "path": "rolling/glas/split_41.ckpt",
+      "backbone": "rolling",
+      "dataset": "glas",
+      "input_size": 512,
+      "num_classes": 1,
+      "sha256": "fbdcd4e43a0bb7bd08016b16152e6b1c682108c6687bcc90daae4a550192726c"
+    },
+    {
+      "path": "ukan/isic17/split_2981.ckpt",
+      "backbone": "ukan",
+      "dataset": "isic17",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "50db3cf90b8a39fcd728aa333f759ec6967e76b45b50c886afcb5c6ff27504e3"
+    },
+    {
+      "path": "ukan/isic17/split_41.ckpt",
+      "backbone": "ukan",
+      "dataset": "isic17",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "f230260aa137564917f385e8ef8d80f860f06eff61bcb952a1521eb038f806c3"
+    },
+    {
+      "path": "ukan/isic17/split_6142.ckpt",
+      "backbone": "ukan",
+      "dataset": "isic17",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "e2b06ff77ced2985ebb4b599d9acf7553022f062e1f450aa19353ced250d536b"
+    },
+    {
+      "path": "ukan/busi/split_2981.ckpt",
+      "backbone": "ukan",
+      "dataset": "busi",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "1bebfd15937964f32bfc5698a067a439dffd16bb03dda69998c345a4233bf1a8"
+    },
+    {
+      "path": "ukan/busi/split_41.ckpt",
+      "backbone": "ukan",
+      "dataset": "busi",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "fe25c151e21492e757f097542249577efbdbb81091e2b519ccc80bb96f65e0a3"
+    },
+    {
+      "path": "ukan/busi/split_6142.ckpt",
+      "backbone": "ukan",
+      "dataset": "busi",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "c16c8b7b169e27ffce626b25dc8a28954537cb1d5fb91e7ced451602096168bf"
+    },
+    {
+      "path": "ukan/cvc/split_2981.ckpt",
+      "backbone": "ukan",
+      "dataset": "cvc",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "d0439a64ec56e005af63421f68800b7ba63bd4dcca8b056485a79f996a563216"
+    },
+    {
+      "path": "ukan/cvc/split_41.ckpt",
+      "backbone": "ukan",
+      "dataset": "cvc",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "e202a865838b490390e779d14bb3b7b46a7dd15a1d0d696208c52d64cb770160"
+    },
+    {
+      "path": "ukan/cvc/split_6142.ckpt",
+      "backbone": "ukan",
+      "dataset": "cvc",
+      "input_size": 256,
+      "num_classes": 1,
+      "sha256": "ba76385e5b6085b5c7536cc0c0922b8ecd64bd59ffa2d19aa8bf7e2ed884c704"
+    },
+    {
+      "path": "ukan/glas/split_2981.ckpt",
+      "backbone": "ukan",
+      "dataset": "glas",
+      "input_size": 512,
+      "num_classes": 1,
+      "sha256": "e0e8b6aaba2beffc8f119827edd3dcc2afdf10ca2280ce5472a872bba26352c5"
+    },
+    {
+      "path": "ukan/glas/split_41.ckpt",
+      "backbone": "ukan",
+      "dataset": "glas",
+      "input_size": 512,
+      "num_classes": 1,
+      "sha256": "c47b28e2065657e794aa336e4f3d40566aca33d2d0f79b7b98925f96bb09545e"
+    },
+    {
+      "path": "ukan/glas/split_6142.ckpt",
+      "backbone": "ukan",
+      "dataset": "glas",
+      "input_size": 512,
+      "num_classes": 1,
+      "sha256": "528b9a6b2ae0fd948aa9bc88f6e657fa0e754de6c975e45cc7e8c8e54b826fee"
+    }
+  ]
+}
